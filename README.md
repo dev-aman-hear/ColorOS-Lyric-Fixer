@@ -5,6 +5,12 @@
 [![ColorOS](https://img.shields.io/badge/ColorOS-14%20%7C%2015%20%7C%2016-orange.svg)](https://www.oppo.com/en/coloros/)
 [![OxygenOS](https://img.shields.io/badge/OxygenOS-14%20%7C%2015%20%7C%2016-red.svg)](https://www.oneplus.com)
 
+
+> [!IMPORTANT]
+> **Compatibility Notice (Tested on ColorOS 16):**  
+> This method and allowlist architecture have been reverse-engineered, deployed, and **verified on ColorOS 16 (Android 16)** on Realme GT Neo 3T (Realme UI 7.0 / OxygenOS 16).  
+> **Please Note:** Major future firmware updates (such as **ColorOS 17 / Android 17**) may alter internal SystemUI class implementations, SharedPreferences keys, or RomUpdate database schemas, and may require a different procedure or updated patch points.
+
 Unlock native **ColorOS / OxygenOS / Realme UI Lock-Screen Lyrics, Dynamic Island / Capsule Alerts, and Panoramic AOD Lyrics** for custom music players (such as **AuraMusic**, **ViMusic**, **Spotube**, **Innertune**, etc.) without spoofing package identities or renaming applications.
 
 ---
