@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<filter-conf>
+    <filter-name>app_systemui_oplus_media_controller_config</filter-name>
+    <!-- version前四位表示color os版本，后六位表示日期yy-mm-dd-->
+    <version>2026102401</version>
+        disableAnim ="0"/>
+    <excludeList>
+        <packageName name="com.uxin.kilaaudio"/>
+        <packageName name="com.kugou.android.elder"/>
+        <packageName name="com.shoujiduoduo.dj"/>
+        <packageName name="com.vvvdj.player"/>
+        <packageName name="com.facetech.konking"/>
+        <packageName name="cn.kuwo.kwmusichd"/>
+        <packageName name="com.djbox.product"/>
+        <packageName name="com.shoujiduoduo.hihi"/>
+        <packageName name="com.tencent.karaoke"/>
+        <packageName name="com.shoujiduoduo.ringtone"/>
+        <packageName name="cn.kuwo.tingshu"/>
+        <packageName name="com.kugou.android.ringtone"/>
+        <packageName name="com.ss.android.ugc.aweme"/>
+        <packageName name="com.smile.gifmaker"/>
+        <packageName name="com.kuaishou.nebula"/>
+        <packageName name="com.ss.android.ugc.aweme.lite"/>
+        <packageName name="com.tencent.qqlive"/>
+        <packageName name="com.qiyi.video"/>
+        <packageName name="com.youku.phone"/>
+        <packageName name="com.ss.android.article.video"/>
+        <packageName name="com.bilibili.app.in"/>
+        <packageName name="com.ss.android.ugc.live"/>
+        <packageName name="com.le123.ysdq"/>
+        <packageName name="com.tencent.weishi"/>
+        <packageName name="com.baidu.haokan"/>
+        <packageName name="com.hunantv.imgo.activity"/>
+        <packageName name="com.qiyi.video.lite"/>
+        <packageName name="com.videogo"/>
+        <packageName name="com.duowan.kiwi"/>
+        <packageName name="com.sohu.sohuvideo"/>
+        <packageName name="com.duowan.mobile"/>
+        <packageName name="air.tv.douyu.android"/>
+        <packageName name="com.cmcc.cmvideo"/>
+        <packageName name="com.bokecc.dance"/>
+        <packageName name="com.cctv.yangshipin.app.androidp"/>
+        <packageName name="com.babycloud.hanju"/>
+        <packageName name="com.app.moontv"/>
+        <packageName name="com.cssq.video"/>
+        <packageName name="com.baidu.video"/>
+        <packageName name="com.zhongduomei.rrmj.society"/>
+        <packageName name="com.sevenVideo.app.android"/>
+        <packageName name="com.kwai.livepartner"/>
+        <packageName name="com.tencent.qqsports"/>
+        <packageName name="com.tencent.submarine"/>
+        <packageName name="com.wondertek.miguaikan"/>
+        <packageName name="com.all.video"/>
+        <packageName name="com.inphase.itv"/>
+        <packageName name="tv.pps.mobile"/>
+        <packageName name="com.huajiao"/>
+        <packageName name="com.kugou.fanxing"/>
+        <packageName name="cn.cntv"/>
+        <packageName name="android.zhibo8"/>
+        <packageName name="cn.wlantv.kznk"/>
+        <packageName name="com.letv.android.client"/>
+        <packageName name="com.happyteam.dubbingshow"/>
+        <packageName name="cc.kixmix.video"/>
+        <packageName name="com.xiaojingling.ttqs"/>
+        <packageName name="com.dianshijia.tvlive"/>
+        <packageName name="com.video.zs"/>
+        <packageName name="com.generalcomp.batian"/>
+        <packageName name="com.tencent.now"/>
+        <packageName name="com.gifshow.kuaishou.bamboo"/>
+        <packageName name="com.baidu.searchbox"/>
+        <packageName name="com.tencent.mtt"/>
+        <packageName name="com.UCMobile"/>
+        <packageName name="com.quark.browser"/>
+        <packageName name="com.baidu.searchbox.lite"/>
+        <packageName name="com.android.chrome"/>
+        <packageName name="com.cat.readall"/>
+        <packageName name="com.ucmobile.lite"/>
+        <packageName name="com.google.android.googlequicksearchbox"/>
+        <packageName name="com.qihoo.browser"/>
+        <packageName name="com.sing.client"/>
+        <packageName name="com.tencent.mm"/>
+        <packageName name="com.baidu.netdisk"/>
+        <packageName name="com.fanjiao"/>
+        <packageName name="com.qq.reader"/>
+        <packageName name="com.kuaishou.kgx.novel"/>
+        <packageName name="com.ximalaya.ting.lite"/>
+        <packageName name="com.ks.kaishustory"/>
+        <packageName name="com.ximalaya.ting.kid"/>
+        <packageName name="com.sfacg"/>
+        <packageName name="sogou.mobile.explorer"/>
+        <packageName name="com.microsoft.emmx"/>
+        <packageName name="org.mozilla.firefox"/>
+        <packageName name="com.xs.fm.lite"/>
+        <packageName name="com.tencent.qqmusicpad"/>
+        <packageName name="com.google.android.youtube"/>
+        <packageName name="com.iflytek.readassistant"/>
+        <packageName name="com.kuaiyin.player"/>
+        <packageName name="com.shuqi.controller"/>
+        <packageName name="tv.danmaku.bilibilihd"/>
+        <packageName name="com.kugou.viper"/>
+        <packageName name="com.google.android.apps.nbu.files"/>
+        <packageName name="com.kuaiyuhudong.djshow"/>
+        <packageName name="com.blueocean.huoledj"/>
+        <packageName name="com.changba"/>
+        <packageName name="in.krosbits.musicolet"/>
+        <packageName name="com.maxmpz.audioplayer"/>
+        <packageName name="com.xs.fm"/>
+    </excludeList>
+    <whitelist>
+        <packageName name="com.tencent.qqmusic"/>
+        <packageName name="com.netease.cloudmusic"/>
+        <packageName name="com.heytap.music"/>
+        <packageName name="com.aman.auramusic"/>
+        <packageName name="com.kugou.android"/>
+        <packageName name="com.tencent.karaoke"/>
+        <packageName name="cn.kuwo.player"/>
+        <packageName name="com.luna.music"/>
+        <packageName name="cmccwm.mobilemusic"/>
+        <packageName name="cn.missevan"/>
+        <packageName name="com.kugou.android.lite"/>
+        <packageName name="cn.wenyu.bodian"/>
+        <packageName name="com.duoduo.opera"/>
+        <packageName name="com.tencent.qqmusicpad"/>
+        <packageName name="com.aichang.yage"/>
+        <packageName name="com.blueocean.musicplayer"/>
+        <packageName name="com.tencent.blackkey"/>
+        <packageName name="com.e5837972.kgt"/>
+        <packageName name="com.android.mediacenter"/>
+        <packageName name="com.kugou.dj"/>
+        <packageName name="fm.xiami.main"/>
+        <packageName name="com.tencent.qqmusiclite"/>
+        <packageName name="com.blueocean.huoledj"/>
+        <packageName name="com.ting.mp3.android"/>
+        <packageName name="com.kk.xx.music"/>
+        <packageName name="ht.nct"/>
+        <packageName name="com.ximalaya.ting.android"/>
+        <packageName name="com.kuaiyin.player"/>
+        <packageName name="fm.qingting.qtradio"/>
+        <packageName name="com.yibasan.lizhifm"/>
+        <packageName name="com.shinyv.cnr"/>
+        <packageName name="app.podcast.cosmos"/>
+        <packageName name="com.tencent.radio"/>
+        <packageName name="com.kuaiyuhudong.djshow"/>
+        <packageName name="com.yusi.chongchong"/>
+        <packageName name="bubei.tingshu"/>
+        <packageName name="io.dushu.fandengreader"/>
+        <packageName name="com.tencent.weread"/>
+        <packageName name="com.soundcloud.android"/>
+        <packageName name="com.dywx.larkplayer"/>
+        <packageName name="com.shazam.android"/>
+        <packageName name="com.smule.singandroid"/>
+        <packageName name="com.andromo.dev445584.app545102"/>
+        <packageName name="com.anghami"/>
+        <packageName name="com.recorder.music.mp3.musicplayer"/>
+        <packageName name="com.atpc"/>
+        <packageName name="com.bandlab.bandlab"/>
+        <packageName name="com.karaoke.offline.download.free.karaoke.music"/>
+        <packageName name="com.shaiban.audioplayer.mplayer"/>
+        <packageName name="com.jamendoandoutly.mainpakage"/>
+        <packageName name="com.spotify.music"/>
+        <packageName name="com.ezen.ehshig"/>
+        <packageName name="com.hiby.music"/>
+        <packageName name="com.tan8"/>
+        <packageName name="org.videolan.vlc"/>
+        <packageName name="video.player.videoplayer"/>
+        <packageName name="com.ted.android"/>
+        <packageName name="com.ss.android.ugc.aweme"/>
+        <packageName name="com.ss.android.ugc.aweme.lite"/>
+        <packageName name="com.mxtech.videoplayer.ad"/>
+        <packageName name="com.apple.android.music"/>
+        <packageName name="com.luojilab.player"/>
+        <packageName name="com.tencent.wehear"/>
+        <packageName name="com.qidian.QDReader"/>
+        <packageName name="com.chaozh.iReaderFree"/>
+        <packageName name="com.kmxs.reader"/>
+        <packageName name="com.salt.music"/>
+        <packageName name="ru.yandex.music"/>
+        <packageName name="tv.danmaku.bili"/>
+    </whitelist>
+    <policy>
+        <packageName name="com.tencent.qqmusic" actionPriority="0" actionPriorityQs="2"
+            oplusActionConfig='[{"key":"oplusLike","uriKey":"ratingUri"}]'
+            lyricEntrance="52"/>
+        <packageName name="com.netease.cloudmusic" actionPriority="0" actionPriorityQs="2"
+            oplusActionConfig='[{"key":"oplusLike"}]'
+            lyricEntrance="52"/>
+        <packageName name="com.heytap.music" actionPriority="1" actionPriorityQs="2" lyricEntrance="52"/>
+        <packageName name="com.aman.auramusic" actionPriority="1" actionPriorityQs="2" lyricEntrance="52"/>
+        <packageName name="com.kugou.android" actionPriority="0" actionPriorityQs="2" oplusActionConfig='[{"key":"oplusLike"}]' lyricEntrance="52"/>
+        <packageName name="com.kugou.android.lite" actionPriority="0" actionPriorityQs="0" oplusActionConfig='[{"key":"oplusLike"}]'
+            lyricEntrance="52" lyricEnable="1"/>
+    </policy>
+</filter-conf>
+

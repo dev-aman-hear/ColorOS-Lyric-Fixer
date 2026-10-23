@@ -1,0 +1,6 @@
+id=coloros-lyric-fixer
+name=ColorOS Native Lyric Fixer
+version=v1.0.0
+versionCode=100
+author=Aman (dev-aman-hear)
+description=Enables native ColorOS 15/16 Lock-Screen, Dynamic Capsule, and AOD lyrics for custom music apps (AuraMusic, Spotube, ViMusic, etc.).
